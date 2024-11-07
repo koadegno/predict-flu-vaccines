@@ -1,4 +1,3 @@
-# predict-flu-vaccines
 # Predicting H1N1 and Seasonal Flu Vaccinations
 
 ## Project Overview
